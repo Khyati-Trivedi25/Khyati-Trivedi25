@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Circular Profile Image -->
-  <img src="[https://your-image-url-here.jpg](https://www.freepik.com/free-ai-image/anime-like-illustration-girl-portrait_351801867.htm#fromView=keyword&page=1&position=3&uuid=73354451-44e7-46b0-ac49-7eb105401e10&query=Anime+Girl+With+A+Smile)" width="150" height="150" style="border-radius: 50%; border: 5px solid #6e48aa; object-fit: cover; box-shadow: 0 4px 10px rgba(110, 72, 170, 0.3);"/>
+  <img src="[[https://your-image-url-here.jpg](https://www.freepik.com/free-ai-image/anime-like-illustration-girl-portrait_351801867.htm#fromView=keyword&page=1&position=3&uuid=73354451-44e7-46b0-ac49-7eb105401e10&query=Anime+Girl+With+A+Smile)](https://wallpaperscraft.com/download/girl_smile_face_224776/1600x900)" width="150" height="150" style="border-radius: 50%; border: 5px solid #6e48aa; object-fit: cover; box-shadow: 0 4px 10px rgba(110, 72, 170, 0.3);"/>
 </p>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold; color: #6e48aa; margin-top: 20px;">
