@@ -46,22 +46,4 @@
   </a>
 </p>
 
-<style>
-  * {
-    font-family: 'Poppins', sans-serif;
-  }
-  body {
-    background-color: #f8f9fa;
-    color: #333;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  h1, h2 {
-    color: #6e48aa;
-  }
-  h2 {
-    border-bottom: 2px solid #9d50bb;
-    padding-bottom: 5px;
-  }
-</style>
+
