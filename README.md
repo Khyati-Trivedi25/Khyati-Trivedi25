@@ -1,13 +1,19 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/25/65/7d/25657d13569db5c58e4458b88c2e9b6b.gif" width="320" alt="Colorful Anime Hero Banner"/>
+  <!-- Circular Profile Image -->
+  <img src="[https://your-image-url-here.jpg](https://www.freepik.com/free-ai-image/anime-like-illustration-girl-portrait_351801867.htm#fromView=keyword&page=1&position=3&uuid=73354451-44e7-46b0-ac49-7eb105401e10&query=Anime+Girl+With+A+Smile)" width="150" height="150" style="border-radius: 50%; border: 5px solid #6e48aa; object-fit: cover; box-shadow: 0 4px 10px rgba(110, 72, 170, 0.3);"/>
 </p>
 
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold; color: #6e48aa;">
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold; color: #6e48aa; margin-top: 20px;">
   Hey there, I'm Khyati Trivedi 👋 
 </h1>
 
 <p align="center" style="font-size: 1.2rem;">
   <b style="background: linear-gradient(90deg, #4776E6, #8E54E9); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Full Stack Developer | Tech Explorer | Problem Solver</b>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D50BB&center=true&vCenter=true&width=435&lines=Building+digital+solutions+that+matter;Turning+ideas+into+functional+reality;Code+with+creativity" alt="Typing animation" />
 </p>
 
 ## 💡 About Me
@@ -17,10 +23,6 @@
 🌱 Love piecing together **full-stack apps**  
 🏆 **3⭐ on HackerRank** for Problem Solving  
 📈 Always learning, always leveling up  
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/0b/83/92/0b83923c0f4964e8ad5313c0c55bdde5.gif" width="200" alt="Anime Girl Coding" style="border-radius: 10px;"/>
-</p>
 
 ## 🛠️ Tech Stack
 
@@ -49,6 +51,9 @@
   </a>
   <a href="https://github.com/khyati-trivedi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
