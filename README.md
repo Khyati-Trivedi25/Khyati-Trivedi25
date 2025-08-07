@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Circular Profile Image -->
-  <img src="[[https://your-image-url-here.jpg](https://www.freepik.com/free-ai-image/anime-like-illustration-girl-portrait_351801867.htm#fromView=keyword&page=1&position=3&uuid=73354451-44e7-46b0-ac49-7eb105401e10&query=Anime+Girl+With+A+Smile)](https://wallpaperscraft.com/download/girl_smile_face_224776/1600x900)" width="150" height="150" style="border-radius: 50%; border: 5px solid #6e48aa; object-fit: cover; box-shadow: 0 4px 10px rgba(110, 72, 170, 0.3);"/>
-</p>
-
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold; color: #6e48aa; margin-top: 20px;">
   Hey there, I'm Khyati Trivedi 👋 
 </h1>
@@ -36,12 +31,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
-
-## 🌟 Current Projects
-
-- 🚀 Building an AI-powered student wellness platform
-- 🎨 Creating a real-time collaboration tool for remote teams
-- 🔍 Contributing to open-source projects
 
 ## 📫 Let's Connect
 
