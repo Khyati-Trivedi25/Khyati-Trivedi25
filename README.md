@@ -35,8 +35,8 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="">
-    <img src="www.linkedin.com/in/khyati-trivedi-985685289" alt="LinkedIn">
+  <a href="www.linkedin.com/in/khyati-trivedi-985685289">
+    <img src="" alt="LinkedIn">
   </a>
   <a href="https://github.com/Khyati-Trivedi25">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
